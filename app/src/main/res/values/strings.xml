@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample UI</string>
+    <string name="first_line">Jetpack Compose is a modern toolkit for building native Android Ul. Compose simplifies and accelerates Ul development on Android with less code, powerful tools, and intuitive Kotlin APIs.</string>
+</resources>
